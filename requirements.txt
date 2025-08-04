@@ -7,3 +7,5 @@ shap
 matplotlib
 seaborn
 streamlit-lottie
+geopandas
+prophet
