@@ -8,4 +8,4 @@ matplotlib
 seaborn
 streamlit-lottie
 geopandas
-plotly.graph_objects
+plotly
