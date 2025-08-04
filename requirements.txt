@@ -10,3 +10,4 @@ streamlit-lottie
 geopandas
 plotly
 folium
+streamlit-folium
