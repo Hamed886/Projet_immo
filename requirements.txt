@@ -9,3 +9,4 @@ seaborn
 streamlit-lottie
 geopandas
 plotly
+folium
