@@ -9,3 +9,4 @@ seaborn
 streamlit-lottie
 geopandas
 prophet
+plotly.graph_objects
